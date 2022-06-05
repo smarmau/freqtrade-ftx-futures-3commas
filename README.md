@@ -1,6 +1,9 @@
 # freqtrade-ftx-future-3commas
 Enables FTX Futures trading using freqtrade on 3commas. For both standalone and docker installations. 
 
+These instructions have been updated. Everything below is for 2021.11 and earlier. Currently (as of develop-4a44b9) 
+
+
 If you just want to use FTX futures within freqtrade, you only need to perform step 1. This will mean freqtrade manages the buy/sell signals as it normmally would.  
 
 ## Do NOT use unless you understand what you're doing and you enjoy losing money. 
